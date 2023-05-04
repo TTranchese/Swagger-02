@@ -1,0 +1,9 @@
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    packagesToScan: com.example.Swagger02
+    pathsToMatch: /v3/api-docs
+server:
+  port: 5050
+
+
